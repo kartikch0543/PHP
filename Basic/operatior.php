@@ -99,5 +99,5 @@ echo "\n log opr";
 $x = true;
 $y = false;
 echo "\n x and y is ".($x and $y);
-
+echo "\n x or y is ".($x or $y);
 ?>
